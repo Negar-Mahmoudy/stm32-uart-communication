@@ -28,7 +28,7 @@ Enter command for LED (led0 or led1):
 - `led1` → LED turns **ON**.  
 - A confirmation message is sent back to the PC.
 - 
-![REALTERM OUTPUT](images/uart_diagram.png)
+![REALTERM OUTPUT](https://github.com/Negar-Mahmoudy/stm32-uart-communication/blob/main/images/uart.png?raw=true)
 
 ---
 
